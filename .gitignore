@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.next/
+.env*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel/
+
+# VSCode
+.vscode/
+
+# Misc
+*.log
+*.sqlite3
+*.db
+
+# Ignore build output
+out/
+
+# Ignore test coverage
+coverage/
+
+# Ignore local dev files
+*.local 
