@@ -1,0 +1,14 @@
+2025-07-02 01:43:03,033 - new_simplyhired - INFO - Starting scrape: 'Software Engineer' in 'India' (target: 5 jobs)
+2025-07-02 01:43:04,605 - new_simplyhired - INFO - Loading SimplyHired homepage (attempt 1)
+2025-07-02 01:43:11,032 - new_simplyhired - INFO - Filled job title: Software Engineer
+2025-07-02 01:43:11,968 - new_simplyhired - INFO - Filled location: India
+2025-07-02 01:43:12,960 - new_simplyhired - INFO - Search form submitted
+2025-07-02 01:43:17,546 - new_simplyhired - INFO - Scraping page 1...
+2025-07-02 01:43:17,564 - new_simplyhired - INFO - Found 20 job cards on current page
+2025-07-02 01:43:25,782 - new_simplyhired - INFO - Successfully extracted 20 jobs from current page
+2025-07-02 01:43:30,866 - new_simplyhired - INFO - Scraped job 1/5: Software Engineer II, Salesforce Developer
+2025-07-02 01:43:35,978 - new_simplyhired - INFO - Scraped job 2/5: Mobile Application Developer
+2025-07-02 01:43:40,410 - new_simplyhired - INFO - Scraped job 3/5: Full Stack Developer
+2025-07-02 01:43:44,631 - new_simplyhired - INFO - Scraped job 4/5: Full Stack - PHP Developer
+2025-07-02 01:43:48,873 - new_simplyhired - INFO - Scraped job 5/5: AWS Developer
+2025-07-02 01:43:48,873 - new_simplyhired - INFO - Scraping completed: 5 jobs in 45.84s across 1 pages
