@@ -1,17 +1,45 @@
-# Node.js
-node_modules/
-.next/
-.env*
-
 # Python
-.venv/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.log
 
-# macOS
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Node/Frontend
+web-portal/
+node_modules/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Images and data
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.csv
+*.sqlite3
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore debug and output files
+zip_headless_debug.png
+simplyhired_scraper.log
 
 # Logs
 npm-debug.log*
@@ -23,17 +51,6 @@ yarn-error.log*
 
 # VSCode
 .vscode/
-
-# Misc
-*.log
-*.sqlite3
-*.db
-
-# Ignore build output
-out/
-
-# Ignore test coverage
-coverage/
 
 # Ignore local dev files
 *.local 
